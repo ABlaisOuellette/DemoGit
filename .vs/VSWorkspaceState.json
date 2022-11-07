@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DemoGit_1",
+    "\\DemoGit_1\\DemoGit_1"
   ],
-  "SelectedNode": "\\C:\\Users\\alexa\\Source\\Repos\\DemoGit",
+  "SelectedNode": "\\DemoGit_1\\DemoGit_1\\App.xaml.cs",
   "PreviewInSolutionExplorer": false
 }
